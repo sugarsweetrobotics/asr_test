@@ -1,0 +1,10 @@
+ManipulatorCommonTest:
+  description: ManipulatorCommonInterface Tester
+  git: https://github.com/sugarsweetrobotics/ManipulatorCommonTest.git
+  hash: 1c10ac042310849e4294b7172f3f029fcb1f6a49
+  repo_name: ManipulatorCommonTest
+VS_ASR_RTC:
+  description: VStone Academic Scala Robot
+  git: https://github.com/sugarsweetrobotics/VS_ASR_RTC
+  hash: 915d586576cac8b33305f73c6a287135cb9b5b6d
+  repo_name: VS_ASR_RTC
